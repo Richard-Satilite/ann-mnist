@@ -1,5 +1,3 @@
-#ANOTHER CLONE TEST
-
 # ANN MNIST CLASSIFICATION
 import tensorflow as tf
 import numpy as np
