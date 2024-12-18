@@ -1,3 +1,5 @@
+#NOVA ALTERAÇÃO USANDO A IDE COMO CONTROLLER
+
 # ANN MNIST CLASSIFICATION
 import tensorflow as tf
 import numpy as np
